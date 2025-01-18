@@ -8,3 +8,5 @@ Task 4
 Substraction functionality added
 Task 5
 Multiply functionality added
+task 6
+Divide function added
