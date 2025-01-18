@@ -6,4 +6,5 @@ Task 3
 Added a addition functionality
 Task 4
 Substraction functionality added
-
+Task 5
+Multiply functionality added
